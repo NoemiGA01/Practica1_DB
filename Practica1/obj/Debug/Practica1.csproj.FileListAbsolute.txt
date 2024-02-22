@@ -1,0 +1,263 @@
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\obj\Debug\Practica1.FrmArea.resources
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\obj\Debug\Practica1.FrmAreaAdd.resources
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\obj\Debug\Practica1.FrmInventario.resources
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\obj\Debug\Practica1.FrmInventarioAdd.resources
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\obj\Debug\Practica1.frmMenu.resources
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\Datos.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\Google.Protobuf.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\Modelo.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\MySql.Data.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\System.Buffers.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\System.Memory.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\ZstdSharp.dll
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\Datos.pdb
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\Datos.dll.config
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\Modelo.pdb
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\Modelo.dll.config
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\Google.Protobuf.pdb
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\Google.Protobuf.xml
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\MySql.Data.xml
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\System.Buffers.xml
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\System.Memory.xml
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\obj\Debug\Practica1.csproj.CopyComplete
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\noemi\Downloads\TRABAJOS6TO\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\Datos.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\Modelo.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\MySql.Data.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\System.Buffers.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\System.Memory.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\ZstdSharp.dll
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\Datos.pdb
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\Datos.dll.config
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\Modelo.pdb
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\Modelo.dll.config
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\MySql.Data.xml
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\System.Buffers.xml
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\System.Memory.xml
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmArea.resources
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmAreaAdd.resources
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmInventario.resources
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmInventarioAdd.resources
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.frmMenu.resources
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.CopyComplete
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\PC\Documents\Uni\German\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmArea.resources
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmAreaAdd.resources
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmInventario.resources
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmInventarioAdd.resources
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.frmMenu.resources
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Datos.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Modelo.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Memory.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\ZstdSharp.dll
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Datos.pdb
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Datos.dll.config
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Modelo.pdb
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Modelo.dll.config
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Google.Protobuf.pdb
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Google.Protobuf.xml
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Memory.xml
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Downloads\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.CopyComplete
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmArea.resources
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmAreaAdd.resources
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmInventario.resources
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmInventarioAdd.resources
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.frmMenu.resources
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Datos.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Modelo.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\MySql.Data.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Buffers.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Memory.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\ZstdSharp.dll
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Datos.pdb
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Datos.dll.config
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Modelo.pdb
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Modelo.dll.config
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\MySql.Data.xml
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Buffers.xml
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Memory.xml
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Downloads\Practica1Again (3)\Practica1Again (2)\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.CopyComplete
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\Datos.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\Google.Protobuf.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\Modelo.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\MySql.Data.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\System.Buffers.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\System.Memory.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\ZstdSharp.dll
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\Datos.pdb
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\Datos.dll.config
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\Modelo.pdb
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\Modelo.dll.config
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\Google.Protobuf.pdb
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\Google.Protobuf.xml
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\MySql.Data.xml
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\System.Buffers.xml
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\System.Memory.xml
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmArea.resources
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmAreaAdd.resources
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmInventario.resources
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.FrmInventarioAdd.resources
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.frmMenu.resources
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.csproj.CopyComplete
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\noemi\Downloads\Practica1Again\Practica1Again\Practica1\Practica1\obj\Debug\Practica1.pdb
